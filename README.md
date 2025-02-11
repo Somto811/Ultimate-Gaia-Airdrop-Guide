@@ -161,7 +161,7 @@ Don't forget to convert Gaiapoints to CreditBalance everyday(Your Gaiapoints wil
 2. **Download the Python Script**:
    - Run:
      ```bash
-     curl -L -o gaiabot.py https://github.com/mefury/Ultimate-Gaia-Airdrop-Guide/raw/main/gaiabot.py
+     curl -L -o gaiabot.py https://github.com/somto811/Ultimate-Gaia-Airdrop-Guide/raw/main/gaiabot.py
      ```
 
 3. **Run the Script**:
